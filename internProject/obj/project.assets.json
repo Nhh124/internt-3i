@@ -13,19 +13,22 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\internt-3i\\internProject\\internProject.csproj",
+      "projectUniqueName": "d:\\internt-3i\\internProject\\internProject.csproj",
       "projectName": "internProject",
-      "projectPath": "D:\\internt-3i\\internProject\\internProject.csproj",
+      "projectPath": "d:\\internt-3i\\internProject\\internProject.csproj",
       "packagesPath": "C:\\Users\\Hoang Hai\\.nuget\\packages\\",
-      "outputPath": "D:\\internt-3i\\internProject\\obj\\",
+      "outputPath": "d:\\internt-3i\\internProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hoang Hai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hoang Hai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
